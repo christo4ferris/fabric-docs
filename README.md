@@ -1,19 +1,4 @@
 
-**Note:** This is a **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
-where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/RapidBoard.jspa?projectKey=FAB&rapidView=5&view=planning)
-
-## Incubation Notice
-
-This project is a Hyperledger project in _Incubation_. It was proposed to the
-community and documented [here](https://goo.gl/RYQZ5N). Information on what
-_Incubation_ entails can be found in the [Hyperledger Project Lifecycle
-document](https://goo.gl/4edNRc).
-
-[![Build Status](https://jenkins.hyperledger.org/buildStatus/icon?job=fabric-merge-x86_64)](https://jenkins.hyperledger.org/view/fabric/job/fabric-merge-x86_64/)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hyperledger/fabric)](https://goreportcard.com/report/github.com/hyperledger/fabric)
-[![GoDoc](https://godoc.org/github.com/hyperledger/fabric?status.svg)](https://godoc.org/github.com/hyperledger/fabric)
-[![Documentation Status](https://readthedocs.org/projects/hyperledger-fabric/badge/?version=latest)](http://hyperledger-fabric.readthedocs.io/en/latest/?badge=latest)
-
 ## Hyperledger fabric
 
 The fabric is an implementation of blockchain technology, leveraging familiar
@@ -45,6 +30,21 @@ Full details of how to contribute to this project are documented [here](http://h
 [Hyperledger Code of Conduct](https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct)
 
 [Community Calendar](https://github.com/hyperledger/hyperledger/wiki/PublicMeetingCalendar)
+
+**Note:** This is a **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
+where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/RapidBoard.jspa?projectKey=FAB&rapidView=5&view=planning)
+
+## Incubation Notice
+
+This project is a Hyperledger project in _Incubation_. It was proposed to the
+community and documented [here](https://goo.gl/RYQZ5N). Information on what
+_Incubation_ entails can be found in the [Hyperledger Project Lifecycle
+document](https://goo.gl/4edNRc).
+
+[![Build Status](https://jenkins.hyperledger.org/buildStatus/icon?job=fabric-merge-x86_64)](https://jenkins.hyperledger.org/view/fabric/job/fabric-merge-x86_64/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hyperledger/fabric)](https://goreportcard.com/report/github.com/hyperledger/fabric)
+[![GoDoc](https://godoc.org/github.com/hyperledger/fabric?status.svg)](https://godoc.org/github.com/hyperledger/fabric)
+[![Documentation Status](https://readthedocs.org/projects/hyperledger-fabric/badge/?version=latest)](http://hyperledger-fabric.readthedocs.io/en/latest/?badge=latest)
 
 ## License <a name="license"></a>
 The Hyperledger Project uses the [Apache License Version 2.0](LICENSE) software
