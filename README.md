@@ -1,6 +1,4 @@
 
-## Hyperledger Fabric
-
 The Hyperledger Fabric is an implementation of blockchain technology, leveraging familiar and proven technologies. It offers a modular architecture allowing pluggable implementations of various capabilities, such as smart contracts (chaincode), cryptography, consensus, ledger datastore and more. It leverages powerful container technology for its deployment and for providing the execution environment for the smart contracts (chaincode) such that the network is protected from malicious code.
 
 ## Documentation, Getting Started and Developer Guides
