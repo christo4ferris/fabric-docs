@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .xpage-header {
-  color: $header-heading-color;
+  color: #fff;
   text-align: center;
   background-color: #c2c2d6;
   background-image: linear-gradient(120deg, #9494b8, #c2c2d6);
